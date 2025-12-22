@@ -119,7 +119,6 @@ projects:
     link: https://storymaps.arcgis.com/stories/14334dcd6def4cf79809cc1f2a910949
     tagline: "ArcGIS StoryMaps project evaluating wildlife crossings, traffic volume, and Florida panther vehicle-collision mortality to inform conservation and infrastructure planning."
 
-
   - title: Solar Energy Site Suitability Analysis
     link: assets/pdfs/solar_energy_site_suitability_analysis.pdf
     tagline: "GIS-based suitability modeling integrating human and environmental constraints to identify optimal locations for solar energy development using raster analysis in ArcGIS."
@@ -132,7 +131,7 @@ oss:
   - title: LaFontaine Scholarship
     tagline: "(Fall 2024 and Fall 2025)"
 
-  - title: Teaching Assistant for Dendrology and Forest Plants (NR 3131C)
+  - title: Teaching Assistant for Dendrology and Forest Plants (FNR-3131C)
     tagline: "Fall 2025"
 
   - title: Treasurer of Organic and Sustainable Agriculture Club
