@@ -4,13 +4,13 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: William Olson
   tagline: GIS-user
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: wolson623@gmail.com
@@ -43,28 +43,16 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Natural Resources with a concentration in GIS
+    university: University of Florida
+    time: Spring 2026
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      Natural Resource Conservation is an interdisciplinary major where ecology, field applications, sampling, GIS technology and natural resource policy are studied.
+  - degree: GeoAI and Geographic Analysis Minor
+    university: University of Florida
+    time: Spring 2026
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Trained in AI applications integrated with geographic datasets, analytics, and technology for pattern identification, trend prediction, and data driven decision making. 
 
 experiences:
   title: Experience
@@ -78,7 +66,7 @@ experiences:
 
   - role: Student Researcher
     time: June 2023 - July 2023
-    company: University of Florida 
+    company: College of Design, Construction and Planning, University of Florida 
     details: |
       Selected by the University of Florida to assist the Technical 
       University of Berlin with a team research project focused on 
@@ -97,7 +85,7 @@ experiences:
 
   - role: Sanibel Symposium Student Assistant
     time: September 2022 - May 2023
-    company: Amazon, London
+    company: Quantum Theory Project, University of Florida
     details: |
       Utilized Microsoft Excel to manage international symposium attendees travel itineraries, 
       verify funding arrangements, document speaking schedules, detail guest contact information, and 
@@ -117,7 +105,7 @@ certifications:
     credentialurl: 
     credentialname: 
     details: |
-      Natural Resource Conservation is an interdisciplinary major where ecology, field applications, sampling, GIS technology and natural resource policy are studied.
+      First
 
       
   - name: GeoAI and Geographic Analysis Minor
@@ -128,7 +116,7 @@ certifications:
     credentialurl: https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/GAI_UMN/ 
     credentialname: 
     details: |
-      Trained in AI applications integrated with geographic datasets, analytics, and technology for pattern identification, trend prediction, and data driven decision making. 
+      Second
 
 projects:
   title: Projects
@@ -209,7 +197,6 @@ recommendations:
     recommendation: |
       I would like to work with Alan Doe again!
 
-      He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
@@ -233,5 +220,3 @@ skills:
   - name: Sketch & Photoshop
     level: 60%
 
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
