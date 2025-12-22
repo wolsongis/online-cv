@@ -53,7 +53,9 @@ education:
     time: Spring 2026
     details: |
       Trained in AI applications integrated with geographic datasets, analytics, and technology for pattern identification, trend prediction, and data driven decision making. 
+      
       <a href="https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/GAI_UMN/" target="_blank">
+     
       View official minor curriculum
       </a>
 
@@ -104,7 +106,7 @@ experiences:
       <strong>Skills used:</strong> Event Coordination, Data Organization and Management, Microsoft Excel, Professional Communication, Document Design and Layout, Logistics Planning
 
 projects:
-  title: Projects
+  title: Notable GIS Projects
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
@@ -116,13 +118,13 @@ projects:
     link: "#"
     tagline: "A responsive website template designed to help web developers/designers market their services."
 
-  - title: Tempo
+  - title: Panther and Wildlife Crossing
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "This project studies the link between wildlife crossings, traffic counts, and Florida panther deaths in southern Florida with the use of ArcGIS Pro. It aims to assess the effectiveness of these crossings in preventing collisions and to find new locations for future crossings."
 
-  - title: Atom
+  - title: Solar Energy Site Analysis
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: "I used ArcGIS Pro to analyze geospatial data and identify optimal sites for energy development. I conducted land use assessments, roadway proximity analysis, slope evaluation, and sunshade analysis. Based on these parameters, I developed binary and ranking suitability models to support solar energy planning and provide a reference for future projects."
 
   - title: Delta
     link: "#"
