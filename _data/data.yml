@@ -84,7 +84,16 @@ experiences:
       University of Berlin with a team research project focused on 
       creating a visual decision making tool using ArcGIS in Germany. 
       Project was concentrated on data collection and documentation and achieved 
-      the goal of the digitization of historic site data to support climate change mitigation measures. 
+      the goal of the digitization of historic site data to support climate change mitigation measures.
+
+      <a href="https://dcp.ufl.edu/news/geodesign-specialization-students-spend-summer-researching-churches-in-germany/" target="_blank">
+      Read more about the Berlin research project
+      </a>
+
+      <a href="https://internationalcenter.ufl.edu/ces-lunchtime-symposium-summer-research-tutorial-abroad-rta-berlin" target="_blank">
+      Hosted symposium at the UF International Center about the Berlin research
+      </a>
+
 
   - role: Sanibel Symposium Student Assistant
     time: September 2022 - May 2023
@@ -151,8 +160,8 @@ oss:
   intro: >
     You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   contributions:
-  - title: LaFontaine Scholarship Recipient, Fall 2024 and Fall 2025
-    tagline: "Scholarship that is awarded to students within the School of Forest, Fisheries, and Geomatic Sciences at the University of Florida"
+  - title: LaFontaine Scholarship (Fall 2024 and 2025)
+    tagline: "Scholarship awarded to students within the School of Forest, Fisheries, and Geomatic Sciences at the University of Florida"
 
   - title: Atom
     link: "#"
