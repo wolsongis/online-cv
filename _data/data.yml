@@ -10,7 +10,7 @@ sidebar:
   # Profile information
   name: William Olson
   tagline: GIS & GeoAI Analyst
-  avatar: "" #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: wolson623@gmail.com
@@ -107,13 +107,12 @@ experiences:
 
 projects:
   title: Notable GIS Projects
-intro: >
-  A selection of applied GIS and GeoAI projects focused on spatial analysis, conservation, and human–environment interactions. These projects demonstrate the use of ArcGIS Pro, demographic and ecological datasets, and advanced spatial methods to investigate real-world planning and environmental challenges.
+  intro: >
+    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-- title: Urban Development Pressure and Florida Panther Mortality
-  link: assets/pdfs/florida_panther_urban_development_pressure.pdf
-  tagline: "Spatial analysis of vehicle-related Florida panther mortality using census demographics, kernel density estimation, and bivariate mapping in ArcGIS Pro."
-
+  - title: Velocity
+    link: "#hook"
+    tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
   - title: DevStudio
     link: "#"
@@ -207,4 +206,3 @@ skills:
 
   - name: C
     level: 60%
-
