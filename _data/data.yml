@@ -14,10 +14,10 @@ sidebar:
 
   # Sidebar links
   email: wolson623@gmail.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  phone: 
+  timezone:  # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  website: https://wolsongis.github.io/online-cv/ # Include the full website URL, including "http://" or "https://".
   linkedin: alandoe
   xing: alandoe
   github: jekyll
@@ -138,11 +138,11 @@ experiences:
         - Bullet point
 
 certifications:
-  title: Certifications
+  title: Education
   list:
   - name: CV Builder
     start: 2020
-    end: 2021
+    end: Spring 2026
     organization: Microsoft
     credentialid: 111-222
     credentialurl: www.google.com
