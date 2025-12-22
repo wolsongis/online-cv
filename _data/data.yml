@@ -126,9 +126,6 @@ projects:
 
 oss:
   title: Awards & Leadership
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
   - title: LaFontaine Scholarship
     tagline: "(Fall 2024 and Fall 2025)"
 
