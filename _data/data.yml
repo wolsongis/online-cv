@@ -36,7 +36,7 @@ sidebar:
 
 
 career-profile:
-  title: Career Profile
+  title: Overview
   summary: |
     Driven GIS student with proven expertise in ArcGIS Pro and GeoAI seeking a post-grad GIS Analyst position.
     
@@ -53,6 +53,9 @@ education:
     time: Spring 2026
     details: |
       Trained in AI applications integrated with geographic datasets, analytics, and technology for pattern identification, trend prediction, and data driven decision making. 
+      <a href="https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/GAI_UMN/" target="_blank">
+      View official minor curriculum
+      </a>
 
 experiences:
   title: Experience
@@ -99,32 +102,6 @@ experiences:
       publication, and subsequently distribute the Sanibel Symposium annual program.
 
       <strong>Skills used:</strong> Event Coordination, Data Organization and Management, Microsoft Excel, Professional Communication, Document Design and Layout, Logistics Planning
-
-
-
-certifications:
-  title: Education
-  list:
-  - name: Natural Resources with a concentration in GIS
-    start: 2020
-    end: Spring 2026
-    organization: University of Florida
-    credentialid: 
-    credentialurl: 
-    credentialname: 
-    details: |
-      First
-
-      
-  - name: GeoAI and Geographic Analysis Minor
-    start: 2019
-    end:
-    organization: University of Florida
-    credentialid: 
-    credentialurl: https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/GAI_UMN/ 
-    credentialname: 
-    details: |
-      Second
 
 projects:
   title: Projects
