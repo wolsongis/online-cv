@@ -38,12 +38,8 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Driven GIS student with proven expertise in ArcGIS Pro and GeoAI seeking a post-grad GIS Analyst position.
+    
 education:
   title: Education
   info:
@@ -71,45 +67,35 @@ education:
         - Bullet point
 
 experiences:
-  title: Experiences
+  title: Experience
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: OPS Worker
+    time: March 2025 - Present
+    company: University of Florida
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      Applying ArcGIS Pro to initiate the development of a deep learning AI technology designed to detect invasive plants utilizing satellite and drone imagery.
+      Automated geospatial data workflows for database management and cleaning using ArcPy scripting and ModelBuilder to ensure data integrity and to streamline the AI model training process. 
+
+  - role: Student Researcher
+    time: June 2023 - July 2023
+    company: University of Florida 
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
+      Selected by the University of Florida to assist the Technical 
+      University of Berlin with a team research project focused on 
+      creating a visual decision making tool using ArcGIS in Germany. 
+      Project was concentrated on data collection and documentation and achieved 
+      the goal of the digitization of historic site data to support climate change mitigation measures. 
+
+  - role: Sanibel Symposium Student Assistant
+    time: September 2022 - May 2023
     company: Amazon, London
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Utilized Microsoft Excel to manage international symposium attendees travel itineraries, 
+      verify funding arrangements, document speaking schedules, detail guest contact information, and 
+      simplify logistics. Communicated in email, telephone, and in-person format with professors, symposium attendees, 
+      and host location staff to facilitate a successful event. Used Microsoft publisher to design, from concept to 
+      publication, and subsequently distribute the Sanibel Symposium annual program. 
+
 
 certifications:
   title: Education
@@ -161,13 +147,12 @@ projects:
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-  title: OSS Contributions
+  title: Awards
   intro: >
     You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - title: LaFontaine Scholarship Recipient, Fall 2024 and Fall 2025
+    tagline: "Scholarship that is awarded to students within the School of Forest, Fisheries, and Geomatic Sciences at the University of Florida"
 
   - title: Atom
     link: "#"
