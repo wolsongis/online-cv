@@ -56,8 +56,7 @@ education:
       
       <a href="https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/GAI_UMN/" target="_blank">
      
-      View official minor curriculum
-      </a>
+      View official minor curriculum</a>
 
 experiences:
   title: Experience
@@ -114,9 +113,9 @@ projects:
     link: assets/pdfs/florida_panther_urban_development_pressure.pdf
     tagline: "Spatial analysis of vehicle-related Florida panther mortality using census demographics, kernel density estimation, and bivariate mapping in ArcGIS Pro."
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+  - title: Network Analysis of Florida Panther Vehicular Mortality
+    link: assets/pdfs/florida_panther_network_analysis_vehicular_mortality.pdf
+    tagline: "Gephi network analysis of Florida panther vehicle-collision mortality (1972–2024), linking roadway class/speed limits with sex and age to identify risk communities."
 
   - title: Panther and Wildlife Crossing
     link: "#"
