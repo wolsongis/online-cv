@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: William Olson
-  tagline: GIS-user
+  tagline: GIS & GeoAI Analyst
   avatar: #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -92,6 +92,8 @@ experiences:
       simplify logistics. Communicated in email, telephone, and in-person format with professors, symposium attendees, 
       and host location staff to facilitate a successful event. Used Microsoft publisher to design, from concept to 
       publication, and subsequently distribute the Sanibel Symposium annual program. 
+
+      Skills gained: 
 
 
 certifications:
@@ -202,21 +204,21 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
-
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
+  - name: ArcGIS Pro
     level: 85%
 
-  - name: Sketch & Photoshop
+  - name: ArcGIS ModelBuilder
+    level: 90%
+
+  - name: Gephi
+    level: 70%
+
+  - name: A
+    level: 95%
+
+  - name: B
+    level: 85%
+
+  - name: C
     level: 60%
 
