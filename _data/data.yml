@@ -48,6 +48,9 @@ education:
     time: Spring 2026
     details: |
       Natural Resource Conservation is an interdisciplinary major where ecology, field applications, sampling, GIS technology and natural resource policy are studied.
+
+      GPA: 3.9
+      
   - degree: GeoAI and Geographic Analysis Minor
     university: University of Florida
     time: Spring 2026
@@ -125,16 +128,18 @@ projects:
     tagline: "GIS-based suitability modeling integrating human and environmental constraints to identify optimal locations for solar energy development using raster analysis in ArcGIS."
 
 oss:
-  title: Awards
+  title: Awards & Leadership
   intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    
   contributions:
-  - title: LaFontaine Scholarship (Fall 2024 and 2025)
-    tagline: "Scholarship awarded to students within the School of Forest, Fisheries, and Geomatic Sciences at the University of Florida"
+  - title: LaFontaine Scholarship 
+    tagline: "Fall 2024 and Fall 2025"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  - title: Teaching Assistant For: Dendrology and Forest Plants (FNR 3131C)
+    tagline: "Fall 2025"
+
+  - title: Treasurer of Organic and Sustainable Agriculture Club 
+    tagline: "Fall 2023 - Spring 2025"
 
 skills:
   title: Skills &amp; Proficiency
@@ -149,10 +154,10 @@ skills:
   - name: Gephi
     level: 70%
 
-  - name: A
+  - name: Office Suite
     level: 95%
 
-  - name: B
+  - name: ArcGIS Databases
     level: 85%
 
   - name: C
