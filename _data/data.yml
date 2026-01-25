@@ -41,13 +41,16 @@ career-profile:
     Driven GIS student with proven expertise in ArcGIS Pro and GeoAI seeking a post-grad GIS Analyst position.
     
 education:
+  education:
   title: Education
   info:
-  - degree: Natural Resources with a concentration in GIS
-    university: University of Florida
-    time: Spring 2026
-    details: |
-      Natural Resource Conservation is an interdisciplinary major where ecology, field applications, sampling, GIS technology and natural resource policy are studied.
+    - degree: Natural Resources with a concentration in GIS
+      university: University of Florida
+      time: Spring 2026
+      details: |
+        Natural Resource Conservation is an interdisciplinary major where ecology, field applications, sampling, GIS technology and natural resource policy are studied.
+        
+        <strong>Relevant Coursework:</strong> GIS Programming (GIS4102C), Digital Image Processing (GIS4037), Popualation GIS (GIS4500), GIS & Hazard Vulnerability (GIS4324), GIS in Soil and Water Sceince (SWS4720C), GIS for Zoonoses and Disease Ecology (GIS4424C).
   - degree: GeoAI and Geographic Analysis Minor
     university: University of Florida
     time: Spring 2026
